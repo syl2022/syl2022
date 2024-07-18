@@ -19,12 +19,14 @@ My tech stack includes:
 ## Whats going on:
 
 - 🔭 I am currently working on my My Hobby Project 
-### TheCreativeBird
-- Repository name(cards) 
-- Link: https://www.thecreativebird.site/
+  #### TheCreativeBird
+  - Repository name(cards) 
+  - Link: https://www.thecreativebird.site/
+
+-  :black_nib: My Personal website: https://www.shrutiyadav.online/
 
 - 🌱 I’m currently learning Kotlin and React-Three-Fiber
 
-- 📫 How to reach me: yadav196shruti@gmail.com
+- :mailbox_with_mail: How to reach me: yadav196shruti@gmail.com
 
 
