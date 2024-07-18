@@ -1,4 +1,5 @@
-# SHRUTI YADAV
+<h3 style="text-align: center;">SHRUTI YADAV</h3>
+
 ## Hi there  👋
 ## Welcome
 
