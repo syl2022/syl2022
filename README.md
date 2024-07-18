@@ -1,6 +1,4 @@
-<div align="center">
-	# SHRUTI YADAV
-</div>
+# <div align="center">SHRUTI YADAV</div>
 
 ## Hi there  👋
 ## Welcome
