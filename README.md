@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Welcome
 
-<!--
-**syl2022/syl2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Shruti Yadav and this is my personal repository. I am a Full Stack developer who started her career in IT industry in 2016. I am an Indian by birth living in Oslo,Norway for couple of years.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on my My Hobby Project 
+* TheCreativeBird
+**Repository name(cards) **
+**Link: https://www.thecreativebird.site/ **
+
+- 🌱 I’m currently learning Kotlin and React-Three-Fiber
+
+- 📫 How to reach me: yadav196shruti@gmail.com
+
+
