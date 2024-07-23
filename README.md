@@ -20,7 +20,7 @@ My tech stack includes:
 
 - 🔭 I am currently working on my My Hobby Project 
   #### TheCreativeBird
-  - Repository name(cards) 
+  - Repository name(TheCreativeBirdTheCreativeBird) 
   - Link: https://www.thecreativebird.site/
 
 -  :black_nib: My Personal website: https://www.shrutiyadav.online/
